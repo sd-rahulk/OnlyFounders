@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "fullName": "System Administrator",
+      "email": "superadmin@onlyfounders.com",
+      "role": "super_admin",
+      "phoneNumber": "+91-9999999999",
+      "collegeName": "",
+      "teamName": "",
+      "domain": ""
+    },
+    {
+      "fullName": "MIT Manipal Admin",
+      "email": "admin.mit@onlyfounders.com",
+      "role": "admin",
+      "phoneNumber": "+91-9999999001",
+      "collegeName": "MIT Manipal",
+      "teamName": "",
+      "domain": ""
+    },
+    {
+      "fullName": "NIT Surathkal Admin",
+      "email": "admin.nit@onlyfounders.com",
+      "role": "admin",
+      "phoneNumber": "+91-9999999002",
+      "collegeName": "NIT Surathkal",
+      "teamName": "",
+      "domain": ""
+    },
+    {
+      "fullName": "RVCE Admin",
+      "email": "admin.rvce@onlyfounders.com",
+      "role": "admin",
+      "phoneNumber": "+91-9999999003",
+      "collegeName": "RVCE",
+      "teamName": "",
+      "domain": ""
+    },
+    {
+      "fullName": "Gate Volunteer Alpha",
+      "email": "gate.volunteer1@onlyfounders.com",
+      "role": "gate_volunteer",
+      "phoneNumber": "+91-9999999101",
+      "collegeName": "",
+      "teamName": "",
+      "domain": ""
+    },
+    {
+      "fullName": "Gate Volunteer Beta",
+      "email": "gate.volunteer2@onlyfounders.com",
+      "role": "gate_volunteer",
+      "phoneNumber": "+91-9999999102",
+      "collegeName": "",
+      "teamName": "",
+      "domain": ""
+    },
+    {
+      "fullName": "Event Coordinator",
+      "email": "coordinator@onlyfounders.com",
+      "role": "event_coordinator",
+      "phoneNumber": "+91-9999999200",
+      "collegeName": "",
+      "teamName": "",
+      "domain": ""
+    }
+    {"email":"finflow.member2@test.com","team":"FinFlow","password":"4RyApvvE$Kd&","entity_id":"OF-2026-3E44"},{"email":"edumentor.lead@test.com","team":"EduMentor","password":"Rwe4*M5CeQW6","entity_id":"OF-2026-942E"},{"email":"edumentor.member1@test.com","team":"EduMentor","password":"vKa#38zRz%mf","entity_id":"OF-2026-CA01"},{"email":"healthhub.lead@test.com","team":"HealthHub","password":"2Z7tnmA&$fkD","entity_id":"OF-2026-E4DC"},{"email":"healthhub.member1@test.com","team":"HealthHub","password":"4J*vzEJqChwV","entity_id":"OF-2026-894C"},{"email":"agrigrow.lead@test.com","team":"AgriGrow","password":"Qbr5k@ZZXJVv","entity_id":"OF-2026-623A"},{"email":"agrigrow.member1@test.com","team":"AgriGrow","password":"*tef4wmQE*Gw","entity_id":"OF-2026-E948"},{"email":"cloudops.lead@test.com","team":"CloudOps","password":"%7ecg5RDR8FL","entity_id":"OF-2026-D0FE"}
+  ]
+}
